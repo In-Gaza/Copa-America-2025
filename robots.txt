@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://d00838.github.io/Copa-America-2025/sitemap.xml
+
